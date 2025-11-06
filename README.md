@@ -17,7 +17,7 @@ The primary challenge was implementing a robust **pathfinding system** for the z
 
 ### Click to Watch Gameplay
 
-[![Watch the Gameplay Video](https://youtu.be/8QlwPnu0JwM?si=yw2fAb-60PAnLi23)
+[![Watch the Gameplay Video](https://img.youtube.com/vi/8QlwPnu0JwM/hqdefault.jpg)](https://www.youtube.com/watch?v=8QlwPnu0JwM)
 
 ## ✨ Key Features
 
