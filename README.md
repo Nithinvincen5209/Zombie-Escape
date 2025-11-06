@@ -4,9 +4,8 @@ A fast-paced 3D top-down survival shooter where the player must fight through ho
 
 ---
 
-### Click to Watch Gameplay
+<img width="2048" height="2048" alt="zombie homescreen" src="https://github.com/user-attachments/assets/a40dd670-2320-4373-8de2-a747ac5cc839" />
 
-[![Watch the Gameplay Video](https://youtu.be/8QlwPnu0JwM?si=yw2fAb-60PAnLi23)
 
 ---
 
@@ -15,6 +14,10 @@ A fast-paced 3D top-down survival shooter where the player must fight through ho
 Zombie Escape is a 3D top-down shooter built in Unity. This project was a deep dive into creating intelligent enemy AI and a responsive, satisfying player controller.
 
 The primary challenge was implementing a robust **pathfinding system** for the zombies, allowing them to navigate complex levels to hunt the player. This project demonstrates my ability to create a complete game loop, from player controls and combat to enemy AI and game state management.
+
+### Click to Watch Gameplay
+
+[![Watch the Gameplay Video](https://youtu.be/8QlwPnu0JwM?si=yw2fAb-60PAnLi23)
 
 ## ✨ Key Features
 
