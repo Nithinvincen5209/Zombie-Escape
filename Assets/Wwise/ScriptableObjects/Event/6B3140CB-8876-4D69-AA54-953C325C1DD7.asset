@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50aea5d4aea5a574383200d50aa7d4c4, type: 3}
+  m_Name: 6B3140CB-8876-4D69-AA54-953C325C1DD7
+  m_EditorClassIdentifier: 
+  objectName: Play_Cutscene
+  id: 2625316922
+  guid: 6B3140CB-8876-4D69-AA54-953C325C1DD7
+  IsInUserDefinedSoundBank: 1

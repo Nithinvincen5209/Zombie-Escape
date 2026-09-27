@@ -1,0 +1,68 @@
+# ===========================================================================
+# Unity - standard generated folders
+# ===========================================================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.pidb.meta
+*.pdb.meta
+sysinfo.txt
+LightingData.asset
+
+# ===========================================================================
+# Baked NavMesh data
+#
+# Derived data. Unity re-bakes these from the scene when the project opens, so
+# they carry no source information - but they are 938 MB across only 5 files,
+# and the largest single file is 314 MB. GitHub REJECTS any single file over
+# 100 MB, so committing these makes the push fail outright.
+# ===========================================================================
+/Assets/Scenes/**/*.asset
+
+# ===========================================================================
+# Unity Asset Store art - NOT REDISTRIBUTABLE
+#
+# This is a public repository. These folders hold third-party art imported from
+# the Unity Asset Store, whose licences forbid redistribution:
+#   Asseset/, Asseset2/   terrains demo and flooded-grounds environment packs
+#   Character/, Terrain/ character models and environment art
+#   Casual_Hit/, OccaSoftware/
+# Do not remove these lines to "make the project work" - re-import the art into
+# your LOCAL copy from your own Asset Store library instead. Only your own
+# scripts, settings, prefabs, scenes and Wwise definitions belong in git.
+# ===========================================================================
+/Assets/Asseset/
+/Assets/Asseset2/
+/Assets/Character/
+/Assets/Terrain/
+/Assets/Casual_Hit/
+/Assets/OccaSoftware/
+
+# ===========================================================================
+# Wwise - keep the integration source, drop the native SDK
+#
+# Kept, because these prove the audio work in this project:
+#   ScriptableObjects/      40 Events, 4 Switches, 2 SwitchGroups, 2 Soundbanks
+#   API/Runtime/Generated/  generated SoundBanks C#
+#   API/Runtime/Handwritten/, API/Editor/, MonoBehaviour/
+#
+# Dropped, because it is 1.36 GB of native binaries plus localised docs that no
+# reviewer needs and that would bloat every clone:
+#   API/Runtime/Plugins/    .dll / .a / .bundle for every platform
+#   Documentation/           98 MB of localised HTML
+#
+# To run the project locally, re-import the integration from the Unity editor:
+#   Audiokinetic Wwise > ProjectDatabase > Integrate Unity Project
+# or re-run the Wwise Launcher. The version is pinned in
+# Assets/Wwise/API/.../Version.txt (Wwise SDK 2024.1.6, build 8842).
+# ===========================================================================
+/Assets/Wwise/API/Runtime/Plugins/
+/Assets/Wwise/ProjectDatabase/Runtime/Plugins/
+/Assets/Wwise/Documentation/

@@ -1,0 +1,50 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "ZombieShooter_WwiseProject",
+   "GUID": "{16128764-0D22-4EFE-99C6-2D44E9DA295C}",
+   "Generator": "2024.1.6.8842"
+  },
+  "CacheRoot": "../../../../ZombieShooter_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Android",
+    "GUID": "{B0402E55-58E0-45D6-8AB7-B4CC3232E720}",
+    "BasePlatform": "Android",
+    "BasePlatformGUID": "{A2D401DE-B8B6-4FEB-8142-137C34D507CA}",
+    "Path": "../../../../ZombieShooter_WwiseProject/GeneratedSoundBanks/Android"
+   },
+   {
+    "Name": "Mac",
+    "GUID": "{261EF231-13C1-4BAC-9F59-B274D3E4C971}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../ZombieShooter_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Web",
+    "GUID": "{4E60FE8C-26B3-4D31-9E3E-B131A6B7D83F}",
+    "BasePlatform": "Web",
+    "BasePlatformGUID": "{639AD233-23F2-4C0F-9127-79F44C15E1DA}",
+    "Path": "../../../../ZombieShooter_WwiseProject/GeneratedSoundBanks/Web"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{AE45E5B6-1CF9-4603-99D0-117785F18B13}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../ZombieShooter_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{5F36742E-5E92-4FE2-955E-0C6D8AA0F106}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{80E6ABC5-1D89-FAA7-0776-16060F9B8E14}"
+ }
+}
